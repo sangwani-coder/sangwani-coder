@@ -1,4 +1,4 @@
-### Hi there 👋 It's [sangwani-coder](https://sangwani-coder.github.io)
+### Hi there 👋 It's [Zyambo](https://sangwani-coder.github.io)
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <br />
 
-Hi,I'm Peter Zyambo🙌, a Full stack Developer, backend Enthusiast. Apart from that I am Just getting started in Open-Source and I love Problem Solving.❤✌
+Hi, I'm Peter Zyambo🙌, a Full stack Developer, backend Enthusiast. Apart from that I love learning new stuff and solving problems.❤✌
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
@@ -24,14 +24,12 @@ Hi,I'm Peter Zyambo🙌, a Full stack Developer, backend Enthusiast. Apart from 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I am just getting started in Open-Source.
-- 🌱 I’m currently learning Java.
-- 👯 Part of Developer Community.
+- 🔭 Just getting started in Open-Source.
+- 🌱 Just learned how to createa a REST-API using Java and SpringBoot
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs](https://medium.com/@elsonpzyambo)
 - ✨ I can play piano, trumpet and guitar too.
-
-
+- I love teaching martial arts to kids.
 
 **Community**
 - Python Software Foundation
