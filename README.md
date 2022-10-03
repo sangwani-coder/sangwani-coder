@@ -18,7 +18,8 @@
 
 Hi,I'm Peter Zyambo🙌, a Full stack Developer, backend Enthusiast. Apart from that I am Just getting started in Open-Source and I love Problem Solving.❤✌
 
-<iframe align="left" src="https://giphy.com/embed/OVtqvymKkkcTu" width="480" height="382" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/OVtqvymKkkcTu">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 
 
 **Talking about Personal Stuffs:**
