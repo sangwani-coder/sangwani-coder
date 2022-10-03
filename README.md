@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hello World 👋 It's [sangwani-coder](https://sangwani-coder.github.io)
+### Hi there 👋 It's [sangwani-coder](https://sangwani-coder.github.io)
 
 <br/>
 
