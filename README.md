@@ -9,6 +9,7 @@
 <a href="https://medium.com/@elsonpzyambo">
 <img align="left" alt="Peter Zyambo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+
 <br />
 
 <br />
@@ -18,7 +19,7 @@ I'm Zyambo, Full stack developer, Entrepreneur and Science enthusiast.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
-**Activities outside coding:
+**Activities outside coding:**
 - Piano/Trumpet Teacher/Performer 
 - Kyokushin/Kickboxing instructor
 - Composer/Arranger
