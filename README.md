@@ -1,4 +1,4 @@
-### Hello 👋 
+### Bwanji 👋 
 <br/>
 <a href="https://twitter.com/peter_zyambo">
 <img align="left" alt="Peter Zyambo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -14,14 +14,14 @@
 
 <br />
 
-I'm Zyambo, Full stack developer, Entrepreneur and Science enthusiast.
+I'm Peter Sangwani Zyambo, Founder & CEO of Lipila Technologies Limited.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 **Activities outside coding:**
-- Piano/Trumpet Teacher/Performer 
-- Kyokushin/Kickboxing instructor
+- Piano & Trumpet Teacher
+- Kunggu & Kyokushin Karate instructor
 - Composer/Arranger
 - Solving puzzles
 
